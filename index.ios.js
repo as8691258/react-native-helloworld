@@ -11,7 +11,7 @@ import {
   Text,
   View
 } from 'react-native';
-import {Main} from 'app/main';
+import {Main} from './app/main.js';
 
 export default class HelloWorld extends Component {
 

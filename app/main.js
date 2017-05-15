@@ -1,7 +1,7 @@
 
 
 import React, { Component } from 'react';
-import Index from 'page/index.js';
+import Index from './page/index.js';
 
 var {
     StyleSheet,
